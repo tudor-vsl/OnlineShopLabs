@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Layout Test</string>
+    <string name="textview">TextView</string>
+</resources>
